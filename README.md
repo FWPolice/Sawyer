@@ -1,4 +1,5 @@
 # Sawyer
+![Sawyer](https://images.creativemarket.com/0.1.0/ps/1669016/580/386/m2/fpnw/wm0/sawyermockup-.png?1474247451&s=acd725f0de12f5028748e61a8ff1b430)
 
 ## INTRODUCTION
 
@@ -35,22 +36,15 @@ Create a new issue for this project here on Github.
 Sawyer uses several font icons and placeholder images. All of these contents are free to use with some requiring credit to the author.
 
 FontAwesome – http://fontawesome.io/
-
 Ionicons – http://ionicons.com/
-
 Pexels – https://www.pexels.com/
-
 Unsplash – https://unsplash.com/
-
 Google Fonts – https://fonts.google.com/
 
-Scripts & Libraries
+### Scripts & Libraries
 
 Bootstrap – http://getbootstrap.com/
-
 jQuery – https://jquery.com/
-
 Animsition – http://git.blivesta.com/animsition/
-
 Google Maps – http://maps.google.com
 
